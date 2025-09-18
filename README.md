@@ -1,5 +1,4 @@
-# end2end_celltracker
-Object tracking and segmentation over time in one model.
+# Object tracking and segmentation over time in one model.
 
 Exploratory repo hacking into pytorch maskrcnn, computing features over the identified blobs, and linking like blobs across frames using Hungarian matching. Thus the model can simultaneously segments and tracks of objects that change morphology over time model of cells/PSF 
 
